@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0; }
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #A9A9A9;
+  font-family: 'Gemunu Libre', sans-serif;
+  text-align: center; }
+
+.name {
+  font-weight: 800;
+  color: #FF0000;
+  font-size: 40px;
+  margin: 10px 0px; }
+
+.title {
+  font-weight: 300;
+  color: #541E1B;
+  font-size: 35px;
+  margin: 15px 0px; }
+
+.chorus {
+  font-weight: 700;
+  color: #000;
+  font-size: 30px; }
+
+.verse {
+  font-weight: 400;
+  color: #fff;
+  font-size: 30px; }
+
+/*# sourceMappingURL=style.css.map */
